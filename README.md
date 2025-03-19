@@ -41,11 +41,11 @@ Puedes acceder al proyecto en el siguiente enlace:
 - Git y GitHub  
 
 ## 👥 Personas Contribuyentes  
-- Nombre 1  
-- Nombre 2  
+- Alexnadra 
+- Joshua 
 
 ## 👨‍💻 Personas-Desarrolladores del Proyecto  
-- Tu Nombre (@TuUsuario)  
+- Tu Nombre (@Alexacleto)  
 
 ## 📜 Licencia  
 Este proyecto está bajo la licencia MIT.  
